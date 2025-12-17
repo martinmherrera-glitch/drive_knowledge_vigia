@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Google credentials / keys (do not commit)
+Credenciales_GCP_*.json
+credentials*.json
+*.pem
